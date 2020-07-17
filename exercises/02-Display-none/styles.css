@@ -1,1 +1,13 @@
 /* your code here */
+h2 {
+	visibility: hidden;
+	display: none;
+}
+
+li {
+	display: inline-flex;
+}
+
+strong {
+	display: block;
+}

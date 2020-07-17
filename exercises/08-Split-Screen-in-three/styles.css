@@ -3,10 +3,22 @@ body {
 }
 #sectionA {
 	background: blue;
+	display: flex;
+	float: left;
+	width: 33%;
+	height: 900px;
 }
 #sectionB {
 	background: red;
+	display: flex;
+	float: left;
+	width: 33%;
+	height: 900px;
 }
 #sectionC {
 	background: green;
+	display: flex;
+	float: left;
+	width: 33%;
+	height: 900px;
 }
